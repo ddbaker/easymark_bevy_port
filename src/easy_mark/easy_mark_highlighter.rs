@@ -1,3 +1,4 @@
+use bevy_egui::{egui};
 use super::easy_mark_parser;
 
 /// Highlight easymark, memoizing previous output to save CPU.
